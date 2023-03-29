@@ -1,0 +1,185 @@
+body, html, #root {
+  height: 99%;
+  width: 99%;
+}
+body {
+  background-image: url("images/BG-Image.jpg");
+  background-color: #999999;
+}
+html {
+  font-size: 16px;
+}
+a {
+	target-name: new;
+	target-new: tab;
+}
+a:link {
+	color: white;
+}
+a:visited {
+	color: white;
+}
+a:hover {
+	color: white;
+}
+a:active {
+	color: white;
+}
+
+H3 {
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.section-group {
+	display: block;
+	border: 0px;
+	padding: 5px;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	display: flex;
+	display: inline-block;
+	text-align: center;
+	justify-content: center;
+}
+.section-block {
+	background-color: rgba(44, 44, 44, 0.65);
+	color: rgba(255, 255, 255, 1);
+	border-radius: 20px;
+	display: inline-block;
+	margin: 5px;
+	border: 0px;
+	padding: 10px;
+}
+.section-block:hover {
+	background-color: rgba(0, 0, 0, 0.85);
+}
+
+/* ---WEATHER SECTION------------------- */
+
+#weather {
+	width: 22%;
+}
+.temperature {
+	float: left;
+	width: 20%;
+	text-align: left;
+	font-size: 24px;
+}
+.condition {
+	float: right;
+	width: 60%;
+	text-align: right;
+	padding: 10px 0px 10px;
+}
+.weather-status {
+	padding: 30px 0px 30px 0px;
+}
+.status {
+	float: left;
+	width: 33%;
+	text-align: left;
+}
+.sun-left {
+	color: #ffc107;
+	float: left;
+	width: 50%;
+	text-align: left;
+}
+.moon-right {
+	color: #00bfff ;
+	float: right;
+	width: 50%;
+	text-align: left;
+}
+
+/* ---UPULLANDPAY SECTION------------------- */
+
+#upullandpay {
+	width: 17%;
+}
+.vehicle-data {
+	float: left;
+	width: 70%;
+}
+.vehicle-year {
+	float: left;
+	width: 33%;
+	text-align: left;
+}
+.vehicle.trim {
+	float: left;
+	width: 66%;
+	text-align: right;
+}
+.vehicle-location {
+	color: #ffc107;
+	margin-top: 10px;
+	float: left;
+	width: 70%;
+	text-align: left;
+}
+.vehicle-row {
+	color: #ffc107;
+	margin-top: 10px;
+	float: right;
+	width: 30%;
+	text-align: center;
+}
+.vehicle-age {
+	text-align: center;
+	padding: 0px 0px 10px;
+	color: #ffc107;
+	font-size: 24px;
+	float: right;
+	width: 30%;
+}
+.vehicle-age-number {
+	text-align: center;
+	float: center;
+	font-size: 16px;
+	padding-left: auto;
+	padding-right: auto;
+}
+
+/* ---FAVORITES SECTION------------------- */
+
+#link-group {
+	width: 55%
+}
+#link-block {
+	background-color: rgba(0, 0, 0, 0.0);
+	margin: 0px;
+}
+#link-block:hover {
+	background-color: rgba(44, 44, 44, 0.65);
+}
+.favorite-link-logo {
+	background-color: RGBA(0, 0, 0, 0.65);
+	border-radius: 15px;
+	border: 0px;
+	padding: 10px;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 65px;
+	width: 65px;
+}
+.favorite-link-logo:hover {
+	background-color: RGBA(0, 0, 0, 1.0);
+}
+.favorite-link-logo img {
+	background-color: RGBA(0, 0, 0, 1.0);
+	border-radius: 10px;
+	height: 100%;
+	width: 100%;
+}
+.favorite-link-name {
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+
+

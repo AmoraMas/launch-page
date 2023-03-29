@@ -1,0 +1,24 @@
+# link info should be in the following format
+# 	link name, link logo location, link URL
+# each part should be seperated by commas
+# limit link names to 8 characters. Anything longer will be truncated.
+#
+ProtonMail, ProtonMail_Logo.png, https://mail.proton.me/
+G-Cal, GoogleCalendar_Logo.png, https://calendar.google.com/calendar/u/0/r
+GitHub, GitHub_Logo.png, https://github.com/AmoraMas/
+ClassZoom, ClassZoom_Logo.png, https://zoom.us/my/fth.jrs
+Slack, Slack_Logo.png, https://app.slack.com/client/T1T555TL0/CGPFV9QAX
+#Slack, Slack_Logo.png, https://www.slack.com/
+Prep-Galvanize, Galvanize_Logo.png, https://auth.galvanize.com/sign_in
+GuitarSage, GuitarSage_Logo.png, https://yourguitarsage.mykajabi.com/library/
+LinkedIN, LinkedIN_Logo.png, https://www.linkedin.com/
+<HR>
+YouTube, YouTube_Logo.jpeg, https://www.youtube.com/
+Twitch, Twitch_Logo.png, https://www.twitch.tv
+Amazon, Amazon_Logo.jpeg, https://www.amazon.com/
+Prime Video, Amazon_Logo.jpeg, https://www.amazon.com/Amazon-Video/b/?node=2858778011
+Duck.com, DuckDuckGo_Logo.png, https://duckduckgo.com/
+Pull&Pay, UPullAndPay_Logo.jpeg, https://upullandpay.com/
+CraigsList, CraigsList_Logo.png, https://cosprings.craigslist.org/
+S10Forum, S10Forum_Logo.jpeg, https://www.s10forum.com/
+CoPart, CoPart_Logo.png, https://www.copart.com/
